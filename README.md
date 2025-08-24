@@ -9,3 +9,7 @@ Totalmente desenvolvido por meio do terminal em companhia de Node.js, o projeto 
 ## Melhorias
 
 Como sugerido pelo docente, foi acrescentado, por meio de uma função, duas formas de ataque: casco e bomba - meios que tiram pontuações diferentes no quesito "Confronto". No demais, o projeto segue o mesmo.
+
+## Tecnologias
+![](https://img.shields.io/badge/-Node.js-217a00?logo=nodedotjs&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-JavaScript-fbff00?logo=javascript&logoColor=white&style=plastic)
